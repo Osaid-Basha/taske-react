@@ -1,0 +1,29 @@
+.head{
+     background:rgb(26, 188, 156) ;
+     height: 782px;
+}
+.head span div{
+   width: 200px;
+  width: 20xp;
+   border: 3px solid white;
+   border-radius: 3px;
+    
+}
+.head h1{
+        margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+}
+.head svg{
+    color: white;
+}
+.head p{
+        display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+    
